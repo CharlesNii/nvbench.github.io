@@ -4,10 +4,10 @@ Demo page for **NV-Bench**: Benchmarking Nonverbal Vocalization Synthesis in Exp
 
 ## Links
 
-- **Demo**: [https://nvbench.github.io](https://nvbench.github.io)
+- **Demo**: [https://charlesnii.github.io/nvbench.github.io/](https://charlesnii.github.io/nvbench.github.io/)
 - **Code**: [https://github.com/nvbench/NV-Bench](https://github.com/nvbench/NV-Bench)
-- **Dataset**: [https://huggingface.co/datasets/AnonyData/NV-Bench](https://huggingface.co/datasets/AnonyData/NV-Bench)
-- **NVASR Model**: [https://huggingface.co/AnonyData/Multilingual-NVASR](https://huggingface.co/AnonyData/Multilingual-NVASR)
+- **Dataset**: [https://huggingface.co/datasets/CharlesNi/NV-Bench](https://huggingface.co/datasets/CharlesNi/NV-Bench)
+- **NVASR Model**: [https://huggingface.co/CharlesNi/Multilingual-NVASR](https://huggingface.co/CharlesNi/Multilingual-NVASR)
 
 ## Local Preview
 
